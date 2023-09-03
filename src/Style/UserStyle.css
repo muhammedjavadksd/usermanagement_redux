@@ -1,0 +1,12 @@
+body {
+    /*background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1)); */
+    font:  "Lucida Grande", Helvetica, Arial, sans-serif;
+    background-image: url('../../public/Images/scenery-art-wallpaper.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.welcome {
+    color: #fffdfd;
+}
